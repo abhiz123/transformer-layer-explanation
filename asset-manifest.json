@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/transformer-layer-explanation/static/css/main.e6c13ad2.css",
+    "main.js": "/transformer-layer-explanation/static/js/main.740f07ce.js",
+    "index.html": "/transformer-layer-explanation/index.html",
+    "main.e6c13ad2.css.map": "/transformer-layer-explanation/static/css/main.e6c13ad2.css.map",
+    "main.740f07ce.js.map": "/transformer-layer-explanation/static/js/main.740f07ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.740f07ce.js"
+  ]
+}
